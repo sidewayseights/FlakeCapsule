@@ -15,6 +15,15 @@ Flaky tests waste engineering time, block deploys, and erode trust in CI. FlakeC
 
 ---
 
+### Edition & Scope
+This repository provides the Community Edition of FlakeCapsule (detect → minimize → package) for demo/evaluation.
+The production variant includes:
+- Advanced minimization heuristics
+- Classifier-assisted flake triage
+- Extended capsule schema & enterprise integrations
+
+---
+
 ## Quickstart
 
 ### 1) Setup
