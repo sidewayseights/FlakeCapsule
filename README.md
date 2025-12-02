@@ -1,7 +1,7 @@
 # FlakeCapsule — Flaky Test Automator (v0.2)
 
 > Detects flaky tests, **minimizes** reproduction conditions, and **packages deterministic replay capsules** with integrity hashes.  
-> Outcome: **MTTR 4–8 hours → <30 minutes** for common timing/order-dependent failures.
+> Outcome: **MTTR 4–8 hours → <30 minutes** (observed on sample suites) for common timing/order-dependent failures.
 
 ---
 
